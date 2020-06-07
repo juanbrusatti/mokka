@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+.pruducts-list {
+  display: flex;
+}
+
 .product-item{
   width: 82%;
   max-width: 1000px;
