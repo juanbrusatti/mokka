@@ -1,0 +1,67 @@
+.menu{
+  width:100%;
+  background:#ccc;
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.menu li{
+  display: inline-block;
+}
+.menu li a{
+padding: 10px 20px;
+display: inline-block;
+}
+.menu li a:hover{
+  background: #ccc;
+  color: #000;
+}
+
+ul{
+
+  list-style-type:none;
+}
+
+
+img.insta{
+
+  width: 30px;
+ } 
+
+img{
+width: 100px;
+}
+
+div.caja{
+color:#fff
+}
+
+div{
+width: 100px;
+height: 100px;
+background: #4A88F4
+}
+
+div {
+font-size: 30px;
+float:left;
+}
+
+
+p {
+font-size: 20px;
+background:#A73;
+}
+
+
+
+
+
+.pie{
+  text-align: center;
+  background: #3D494D;
+  height: 30px;
+  color: #fff;
+}
+
+
