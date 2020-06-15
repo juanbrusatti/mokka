@@ -1,0 +1,78 @@
+body {
+  background: #e6e6e6;
+}
+
+.quienso{
+  padding: 10px 20px;
+  font-size: 25px;
+  font-family: inherit;
+  color:#4E4F53;
+}
+
+header nav ul li a{
+  float: left;
+  padding:10px 20px;
+  display:block;
+  color:#fff;
+  text-decoration:none;
+}
+
+header nav ul li a:hover{
+  background: #75acec;
+}
+
+.mokka{
+  border-radius:50%; 
+}
+
+.menu{
+  width:100%;
+  background:#528fd5;
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.menu li{
+  text-decoration: none;
+  display:inline-block;
+
+}
+.menu li a{
+  display: inline-block;
+  padding: 12px 120px;
+  display: inline-block;
+  color: #fff;
+}
+.menu li a:hover{
+  color: #000 ;
+}
+
+ul{
+  list-style-type:none;
+}
+
+.mokka {
+  width: 150px;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+.pie{
+  text-align:center;
+  background: #3D494D;
+  height: 30px;
+  color: #fff;
+}
+
+div h3{
+  width: 70%;
+color: #4E4F53;
+}
+
+.juan{
+width: 30%;
+margin-bottom: 10px;
+position: relative;
+float: right;
+}

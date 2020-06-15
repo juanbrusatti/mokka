@@ -1,0 +1,79 @@
+
+body {
+  background: #e6e6e6;
+
+}
+
+.menu{
+  width:100%;
+  background:#528fd5;
+  list-style:none;
+  margin:0;
+  padding:0;
+}
+.menu li{
+  text-decoration: none;
+  display:inline-block;
+
+}
+.menu li a{
+  display: inline-block;
+  padding: 12px 120px;
+  display: inline-block;
+  color: #fff;
+}
+.menu li a:hover{
+  
+  color: #000 ;
+}
+
+.mokka {
+  width: 150px;
+  height: auto;
+  margin: auto;
+  display: block;
+  border-radius: 50%;
+}
+
+.pie{
+  text-align:center;
+  background: #3D494D;
+  height: 30px;
+  color: #fff;
+}
+
+
+header nav ul li a{
+  float: left;
+  padding:10px 20px;
+  display:block;
+  color:#fff;
+  text-decoration:none;
+}
+
+header nav ul li a:hover{
+  background: #75acec;
+}
+
+.maceta{
+  width: 30%;
+}
+
+.cuadrada{
+  color: #fff;
+  height: 30px;
+text-align:center;
+float:right;
+  background: #3D494D;
+width: 50%;
+
+}
+.precio{
+  color: #fff;
+  height: 30px;
+text-align:center;
+float:right;
+  background: #3D494D;
+width: 50%;
+  
+}
